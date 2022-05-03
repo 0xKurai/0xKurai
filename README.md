@@ -1,3 +1,4 @@
-<p align="center"> 
+<td colspan="2" align="center">
   <img src="terminal.svg" alt=""></img>
-</p>
+  <img width="900" height="1" alt="">
+</td>
